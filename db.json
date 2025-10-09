@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": "3130",
+      "fullName": "asdf",
+      "email": "asdf@asdf.com",
+      "password": "asdf"
+    },
+    {
+      "id": "2e4e",
+      "fullName": "asdf",
+      "email": "asdf@asdf.com",
+      "password": "asdf"
+    },
+    {
+      "id": "1c85",
+      "fullName": "asdf",
+      "email": "asdf@asdf.com",
+      "password": "asdf"
+    },
+    {
+      "id": "7807",
+      "fullName": "asdf",
+      "email": "asdssf@asdf.com",
+      "password": "asdf"
+    },
+    {
+      "id": "6ffb",
+      "fullName": "teste",
+      "email": "email@email.com.br",
+      "password": "asdf"
+    },
+    {
+      "id": "46df",
+      "fullName": "sr teste",
+      "email": "testando@teste.com.br",
+      "password": "1234"
+    }
+  ]
+}
